@@ -16,6 +16,7 @@
         <dependency>
             <groupId>com.exercise.springboot</groupId>
             <artifactId>core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
